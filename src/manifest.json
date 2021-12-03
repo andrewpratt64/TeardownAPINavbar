@@ -1,0 +1,12 @@
+{
+	"name": "Teardown API Navbar",
+	"version": "1.0",
+	"manifest_version": 3,
+	"content_scripts": [
+		{
+			"matches": [ "https://www.teardowngame.com/modding/api.html*" ],
+			"css": [ "td_api_navbar.css" ],
+			"js": [ "td_api_navbar.js" ]
+		}
+	]
+}

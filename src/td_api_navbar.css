@@ -1,0 +1,18 @@
+.customTdNavbar
+{
+	width:		9em;
+	height:		100%;
+	margin:		0;
+	padding:	0;
+	display:	block;
+	position:	fixed;
+	overflow:	hidden;
+	
+	background-color:	#303030;
+}
+
+
+.contentContainer
+{
+	margin-left:	10em;
+}
